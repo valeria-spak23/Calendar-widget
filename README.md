@@ -1,6 +1,6 @@
 # Calendar-widget
 
-A simple desktop calendar app built with HTML, CSS, JavaScript, and ElectronJS
+A simple desktop calendar app built with HTML, CSS, JavaScript, and ElectronJS.
 
 ## What's in this repo
 
